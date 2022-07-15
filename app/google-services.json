@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961112262741",
+    "project_id": "asj-gdg-composeapp",
+    "storage_bucket": "asj-gdg-composeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961112262741:android:80cc298c65afe4bd416cdc",
+        "android_client_info": {
+          "package_name": "com.example.composeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961112262741-3vti2cfafj0fchg0lf329ngpdggdigkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE_-37-Qo7lbarzVOutGw_DURxlBybxOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961112262741-3vti2cfafj0fchg0lf329ngpdggdigkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
